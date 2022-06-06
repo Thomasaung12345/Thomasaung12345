@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thomasaung12345
+- 👋 Hi, I’m Thomas aka Nyan Pyae Sone
 - 👀 I’m interested in HTML & CSS & Python
 - 🌱 I’m currently learning JS & CSS
 - 😀 I'm 13 years old
